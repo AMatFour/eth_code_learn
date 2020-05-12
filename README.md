@@ -3,3 +3,6 @@
 
 liutong  zheci yinggai  mei wenti  le  ba 
 
+
+2020年5月12日13:45:30测试
+	gitbash 和 tortiseGit都不用密码进行操作。
